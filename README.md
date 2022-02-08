@@ -1,6 +1,14 @@
 # Country List
 
-JSON list of all countries with their timezones, lat/long, capital cities, dial codes and flag emojis.
+JSON country list with:
+
+- Timezone
+- Lat/long
+- Capital city
+- Dial code
+- Currency
+- Continent
+- Flag emoji
 
 Missing/Incomplete data:
 
